@@ -1,3 +1,16 @@
-h1 { 
+h1 {
     color: red;
+}
+
+
+.row {
+    display: flex;
+    gap: 4px;
+}
+
+
+.row>div {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
 }
