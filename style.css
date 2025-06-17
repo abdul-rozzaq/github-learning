@@ -21,3 +21,10 @@ h1 {
     flex-direction: column;
     gap: 4px;
 }
+
+
+footer {
+    padding: 10px;
+    background-color: teal;
+    color: white;
+}
