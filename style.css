@@ -5,6 +5,15 @@
     justify-content: space-between;
 }
 
+ul {
+    display: flex;
+    gap: 17px;
+}
+
+ul li {
+    list-style: none;
+}
+
 h1 {
     color: red;
 }
